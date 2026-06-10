@@ -113,18 +113,3 @@ This project helped strengthen my understanding of:
 - Responsive web development
 - Version control using Git and GitHub
 
----
-
-## Author
-
-**Akshaya Avusali**
-
-GitHub: https://github.com/Akshaya-avusali
-
-LinkedIn: https://www.linkedin.com/in/akshaya-avusali-770312291/
-
----
-
-## License
-
-This project is intended for educational and portfolio purposes.
